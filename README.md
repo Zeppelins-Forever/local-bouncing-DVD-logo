@@ -1,5 +1,5 @@
 # local-bouncing-DVD-logo
-A locally runnable version of bouncingdvdlogo.com with some tweaks.
+A locally runnable version of [bouncingdvdlogo.com](https://bouncingdvdlogo.com) with some tweaks.
 
 - All of the logic and styling is in `bouncingdvd.html`.
 - You can add or remove items in "logos" and the page will dynamically adjust to the new items after a reload (just make sure you keep the same naming scheme).
